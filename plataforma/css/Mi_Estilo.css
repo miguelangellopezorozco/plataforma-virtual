@@ -1,0 +1,70 @@
+body {
+
+        text-align: center;
+        font-family: "Roboto", sans serif;
+        background-color: #EBEEFC;  
+
+  
+}
+ 
+#principal
+{
+  width: 100%;
+    height: 10%;
+ 
+    position: fixed; 
+    top:0;
+    left: 0;
+    right: 0;
+}
+
+
+
+#titulo
+{
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 20%;
+    height: 100%;
+    width: 13%;
+    text-align: left;
+    color: white;
+    position: absolute;
+    left:5%;
+     text-decoration: none; 
+} 
+
+a
+{
+        color: white;
+        text-decoration: none; 
+       position: relative;
+      width:70%;
+       
+}
+
+a:hover 
+{
+ 
+}
+
+#Sign_in_section 
+{
+    font-size: 100%;
+    font-weight: bold;
+    line-height: 35px;
+    width: 4.5%;
+    height: 55%;
+    border-radius:15px;
+    text-align: left;
+    position: relative;
+    left:90%;
+    
+      
+}
+
+#Sign_in_section:hover
+{
+       background-color:  #04CEBC;
+}
+
